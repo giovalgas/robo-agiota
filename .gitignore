@@ -176,3 +176,6 @@ sketch
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/react,java,intellij,dotenv,yarn
+
+.idea
+application-dev.yaml
